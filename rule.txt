@@ -1,3 +1,4 @@
 payload:
   - '+.openai.com'
   - '+.138.com'
+  - '+.cip.cc'
